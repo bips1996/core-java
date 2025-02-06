@@ -23,7 +23,7 @@
 //
 //class TokenBucket {
 //    int bucketSize;
-//    List<String> tokens;
+//    ListCollection<String> tokens;
 //
 //    TokenBucket(int maxTokens) {
 //        this.bucketSize = maxTokens;

@@ -95,7 +95,7 @@ public class JavaAllTest {
 
 
 //         // ArrayList<Integer> al = new ArrayList<Integer>(100000);
-//         // Map <Integer,Integer> mp = new ConcurrentHashMap <Integer,Integer>();
+//         // MapCollection <Integer,Integer> mp = new ConcurrentHashMap <Integer,Integer>();
 
 //         // Random rm = new Random();
 

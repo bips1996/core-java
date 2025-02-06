@@ -22,7 +22,7 @@ public class ExecuterEx {
 
         //Running a callable task
         /*A Callable is a functional interface in Java, part of the java.util.concurrent 
-        package. It represents a task that can be executed by a thread or an executor, 
+        package. It represents a task that` can be executed by a thread or an executor,
         similar to Runnable. However, unlike Runnable, a Callable task:
             1. Returns a result: It can return a value after completion.
             2. Throws exceptions: It allows checked exceptions to be thrown during execution.
